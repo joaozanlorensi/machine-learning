@@ -1,1 +1,0 @@
-This folder contains Python Scripts and Jupyter Notebooks used for exploring base concepts and libraries that are popular amongst professionals who work with Machine Learning.

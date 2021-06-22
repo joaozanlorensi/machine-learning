@@ -1,0 +1,1 @@
+This folder contains important concepts, practices and definitions in the Machine Learning world.
