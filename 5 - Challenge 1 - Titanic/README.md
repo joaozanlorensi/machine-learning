@@ -1,2 +1,2 @@
-This folder contain my solution to the Titanic Challenge, from Kaggle.  
+This folder contain my solution to the [Titanic Challenge](https://www.kaggle.com/c/titanic), from Kaggle.  
 Based in a set of characteristics from the tripulants that were aboard- such as age, sex, the place from where the person embarked- the objective of this challenge is to forecast if the tripulant would survive or not. 
