@@ -1,5 +1,5 @@
 # Machine Learning
-This repository gathers scripts and concepts that I referenced, wrote and studied about Machine Learning, based in a wide variety of sources.
+This repository gathers scripts and concepts that I referenced, wrote and studied about Machine Learning, based in a wide variety of sources, with emphasis on my excellent classes of Machine Learning at UTFPR, taught by Prof. André Lazzaretti.
 My goal is to make it a comprehensive guide to anyone who wants to study Machine Learning!
 
 The main references used in this Repository are listed below:
